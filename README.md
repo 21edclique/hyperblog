@@ -1,4 +1,4 @@
-# Hyperblog 💚
+# Hyperblog 
 Repaso de estructura y estilos csss
 
 ## Características principales
